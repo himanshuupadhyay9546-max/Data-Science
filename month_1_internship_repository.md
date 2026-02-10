@@ -292,17 +292,3 @@ plt.show()
 
 ---
 
-# ✅ How to Upload on GitHub
-
-1. Create new repository → `Month-1-Internship`
-2. Upload all folders & files
-3. Add README.md
-4. Commit → Push
-
----
-
-If you want, I can next create:
-- Month‑2 repository
-- PPT presentation
-- Internship portfolio repo
-
